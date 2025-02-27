@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(105, 245, 255, 0.377);
+    color: cornflowerblue;
+    font: italic;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: left;
+}
